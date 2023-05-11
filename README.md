@@ -1,5 +1,5 @@
-# Sharon-Nabiryo
-<img align="right" alt="coding" width="400" src="https://external-preview.redd.it/4iLw261NYmI75Vfek2tOjV7zsGVZzXAgp5GhSD0k2tE.gif?width=1281&format=mp4&v=enabled&s=f70592ce72fd71a5e05e74471ce36c0ef63921d1">
+# Sharon Nabiryo
+<img align="right" alt="coding" width="400" height="500" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47f1wo65ijskl0vq3r1gr1nm4j6w8r9z3fwjvrt8ph&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/SharonNabiryo)
@@ -7,19 +7,35 @@
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/roland-ayo-916763230/](https://www.linkedin.com/in/sharon-nabiryo-62488b152/))
 
+👋 A passionate front-end developer specializing in HTML, CSS, JavaScript, and React. 🚀
 
-- [![BR](https://b-r.io/favicons/favicon-16x16.png)](https://rolandayo.com/) 
 Feel free to checkout my [portfolio]( https://sharonnabiryo.github.io/ImSharonNabiryo.github.io/) website!
-- 🏢 Software Engineer (Front End) open to new opportunities.
-- 🌴 I build with: `React`, `JavaScript`, `CSS`, `HTML`, `UI Design & Development` ...
-- ⚡️ I enjoy photography, reading, playing soccer, and lifting weights :)
-- 💬 Reach out to me: sharongless37@gmail.com
 
- 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+💻 I create visually stunning & user-friendly web experiences that leave a lasting impression.
 
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+🎨 I'm well-versed in modern front-end technologies, including HTML5, CSS3, and JavaScript ES6+. 
+
+⚛️ React has captured my heart, and I enjoy harnessing its power to build dynamic and scalable applications. 
+
+🌐 Constantly seeking knowledge and growth.
+
+🤝 Collaboration is key! I enjoy working with cross-functional teams to deliver seamless end-to-end solutions. 
+
+🌟 If you're looking for a dedicated front-end developer, let's connect sharongless37@gmail.com
+
+🌟 Feel free to reach out for collaboration, code reviews, or just to geek out about the latest web technologies.
+
+
+ 🔧 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+<ul>
+<img width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/javascript.svg?sanitize=true" />
+<img width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/python.svg?sanitize=true" />
+<img width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/text%20editors/vscode.svg?sanitize=true" />
+<img width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/social%20icons/heroku.svg?sanitize=true" />
+<img width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/social%20icons/html5.svg?sanitize=true" />
+<img width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/frameworks/boostrap.svg?sanitize=true" />
+<img width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/frameworks/react.svg?sanitize=true" />
+<img width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/databases/mysql.svg?sanitize=true" />
+<img width="50px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/others/css.svg?sanitize=true" />
+<img width="50px" src="https://raw.githubusercontent.com/iconoir-icons/iconoir/master/icons/figma.svg?sanitize=true" />
+</ul>
