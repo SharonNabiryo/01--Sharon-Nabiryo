@@ -1,5 +1,5 @@
 # Sharon Nabiryo
-<img align="right" alt="coding" width="400" height="500" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47f1wo65ijskl0vq3r1gr1nm4j6w8r9z3fwjvrt8ph&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="400" height="400" src="https://media0.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=ecf05e47ji1by63wgrpqp3g0zftnq51x21of0nj57m50k1bg&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/SharonNabiryo)
